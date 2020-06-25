@@ -1,3 +1,3 @@
 # Chat-bot-credit
 Chat bot for bank
-![](https://github.com/ilpol/Chat-bot-credit/demo.mp4)
+![](https://github.com/ilpol/Chat-bot-credit/demo.gif)
